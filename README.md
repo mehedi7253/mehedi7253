@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Shombhob Health Ltd.**
 
-- 🌱 I’m currently learning **Advance Laravel & Vue Js**
-
 - 💬 Ask me about **Laravel, PHP and Vue js**
 
 - 📫 How to reach me **mdmehedihasan221@gmail.com**
