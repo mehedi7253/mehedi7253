@@ -3,9 +3,6 @@
 # Hi 👋, I'm Md. Mehedi Hasan
 
 ### A passionate Fullstack developer from Bangladesh
-
-<img src="https://mehedi-dev.xyz/uploads/logo.png" alt="Md. Mehedi Hasan" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
